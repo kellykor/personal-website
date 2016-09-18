@@ -1,0 +1,72 @@
+/**body**/
+div.beach {
+    opacity: 0.5;
+}
+
+div.About-section {
+    background-color: white;
+    margin: 20px 0 20px 0;
+    padding: 20px;
+}
+body {
+    margin:; 20px;
+}
+h1 {
+    font-family: futura, Arial, Helvetica, sans-serif;
+    font-size: 40pt;
+    color: white;
+    text-shadow: 2px 2px pink;
+}
+h2 {
+    font-family: futura;
+    color: gray;
+    background-color: white;
+}
+h3 {
+     font-family: futura, Arial, Helvetica, sans-serif;
+     color: gray;
+}
+p {
+     font-family: futura, Arial, Helvetica, sans-serif;
+}
+div.title {
+    font-color: black;
+}
+div.sections {
+    background-color: white;
+    color: gray;
+    margin: 20px 0 20px 0;
+    padding: 20px;
+    font-family: futura; 
+}
+/**navigation**/
+nav a {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: lightpink;
+    font-family: futura, Arial, Helvetica, sans-serif;
+}
+
+nav a {
+    float: center;
+}
+
+nav a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+nav a:hover {
+    background-color: lightgray;
+    font-style: gray;
+}
+/**image**/
+img {
+    display: block;
+    margin: 0 auto;
+}
